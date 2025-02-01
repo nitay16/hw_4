@@ -9,6 +9,7 @@ This project applies **Transfer Learning** using **YOLOv5** and **VGG19** to cla
 
 ## Repository Links
 - **GitHub Repository:** [Link](https://github.com/nitay16/hw_4)
+- **Google Colab Notebook:** [Link](https://colab.research.google.com/drive/1gQEdaHNTJLI5xeQrydWM9KUODyQOdLMl?usp=sharing)
 
 ## Project Steps
 1. Downloaded the **Oxford 102 Flowers Dataset** from the [official site](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/).
@@ -31,6 +32,4 @@ The submitted ZIP file contains:
 - A **PDF report** explaining the solution and results in detail.
 - Links to the **source code** and **datasets**.
 
----
 
-Let me know if you need any changes! 🚀
